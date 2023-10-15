@@ -207,7 +207,7 @@ body{
     transition: 0.5s;
     box-shadow: 3px 5px 10px hsl(4, 100%, 67%);
 }
-@media screen and (max-width:375px) {
+@media screen and (max-width:775px) {
      body{
         display: block;
         
